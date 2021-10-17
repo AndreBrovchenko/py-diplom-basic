@@ -1,0 +1,8 @@
+tmp/
+*__pycache__*/
+.idea/
+*_old
+*_backup
+Thumbs.db
+.DS_Store
+
